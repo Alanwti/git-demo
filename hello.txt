@@ -14,3 +14,4 @@ hello ! long time no see!
 hello ! long time no see! fuck master!
 hello ! long time no see! change
 非登录连接ssh果然很强
+github更新让gitee 刷新
